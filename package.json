@@ -14,7 +14,19 @@
   "author": "\"Jimmy Anaya <jimmyanayacademia@gmail.com>",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "jimmy-anaya-anaya-random-message": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyAnaya/random-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JimmyAnaya/random-message/issues"
+  },
+  "homepage": "https://github.com/JimmyAnaya/random-message#readme"
 }
